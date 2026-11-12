@@ -1,1 +1,1 @@
-# Alejandro_mobprogAY2026
+The primary challenges I encountered while setting up my Flutter development environment were configuring the correct PATH variables and connecting an emulator or physical device; I resolved these issues by running flutter doctor, reviewing error messages, updating environment variables. Emulator couldn’t run so I used chrome instead by typing (flutter run -d chrome) in terminal.
